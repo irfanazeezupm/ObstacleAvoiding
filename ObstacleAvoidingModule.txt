@@ -1,3 +1,8 @@
+//Part of this coding were adapted from ROBOT LK's youtube guide. 
+//Some changes has been done so that the integration of modules is possible and robot works smoothly.
+
+
+
 #include <Servo.h>          //Servo motor library.
 #include <NewPing.h>        //Ultrasonic sensor function library.
 //our L298N control pins
