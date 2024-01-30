@@ -1,5 +1,5 @@
 //Part of this coding were adapted from ROBOT LK's youtube guide. 
-//Some changes has been done so that the integration of modules is possible and robot works smoothly.
+//Some changes has been done so that the sensing capabilities of robot is enhanced; ensuring smooth integration between different modules.
 
 
 
